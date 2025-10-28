@@ -150,16 +150,17 @@ Additional processing steps:
  ### 📊 Dashboard Preview
 
 
-![vendor performance analysis](../dashboard.png)
 
-- 
+![Dashboard Preview](https://github.com/user-attachments/assets/74b92cf4-c90f-4af6-a5ad-e2067888f20a)
+
+
+
 ---
-
 - <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Samiul1947/vendor-performance-analysis.git
+   git clone https://github.com/Samiul1947/vendor-performance-and-retail-inventory-optimization-sql-python-powerbi.git
 2. Install dependencies
 
    pip install -r requirements.txt
